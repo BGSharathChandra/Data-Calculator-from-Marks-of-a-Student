@@ -1,5 +1,9 @@
-def seprates():
+from plyer import notification
+import time
 
+
+def seprates():
+    
     ht = int(input("\n\nHow Many Students Percentage do you Want to Calculate:"))
     i = 0
 
@@ -12,43 +16,35 @@ def seprates():
         #Inputs of Physics
         phym = float(input(f"\nEnter the  Marks Scored by {name} in Physics:"))
         if (ams == "N"):
-            phytm = int(
-                input("Enter the Total Marks Physics Exam was Conducted for:"))
+            phytm = int(input("Enter the Total Marks Physics Exam was Conducted for:"))
             phyp = (phym/phytm)*100
 
         #Inputs of Chemistry
-        chemm = float(
-            input(f"\nEnter the Marks scored by {name} in Chemistry:"))
+        chemm = float(input(f"\nEnter the Marks scored by {name} in Chemistry:"))
         if (ams == "N"):
-            chemtm = int(
-                input("Enter the Total Marks Chemistry Exam was Conducted for:"))
+            chemtm = int(input("Enter the Total Marks Chemistry Exam was Conducted for:"))
             chemp = (chemm/chemtm)*100
 
         # Input of Bilogy
         biom = float(input(f"\nEnter the Marks Scored by {name} in Biology:"))
         if (ams == "N"):
-            biotm = int(
-                input("Enter the Total Marks Biology Exam was Conducted for:"))
+            biotm = int(input("Enter the Total Marks Biology Exam was Conducted for:"))
             biop = (biom / biotm) * 100
 
         # Input in Mathematics
-        mathm = float(
-            input(f"\nEnter the Marks Scored by {name} in Mathematics:"))
+        mathm = float(input(f"\nEnter the Marks Scored by {name} in Mathematics:"))
         if (ams == "N"):
-            mathtm = float(
-                input("Enter the Total Marks  Mathematics Exam was Conducted for:"))
+            mathtm = float(input("Enter the Total Marks  Mathematics Exam was Conducted for:"))
             mathp = (mathm / mathtm) * 100
 
         # Inputs in Social Science
         ssm = float(input(f"\nEnter the Marks Scored by {name} in Social Science:"))
         if (ams == "N"):
-            sstm = float(
-                input("Enter the Total Marks  Social Science Exam was Conducted for:"))
+            sstm = float(input("Enter the Total Marks  Social Science Exam was Conducted for:"))
             ssp = (ssm / sstm) * 100
 
         # Inputs in First Language
-        firstlm = float(
-            input(f"\nEnter the Marks Scored by {name} in First Language:"))
+        firstlm = float(input(f"\nEnter the Marks Scored by {name} in First Language:"))
         if (ams == "N"):
             firstltm = float(input("Enter the Total Marks  First Language Exam was Conducted for:"))
             firstlp = (firstlm / firstltm) * 100
@@ -56,8 +52,7 @@ def seprates():
         # Inputs in Second Language
         secondlm = float(input(f"\nEnter the Marks Scored by {name} in Second Language:"))
         if (ams == "N"):
-            secondltm = float(
-                input("Enter the Total Marks  Second Language Exam was Conducted for:"))
+            secondltm = float(input("Enter the Total Marks  Second Language Exam was Conducted for:"))
             secondlp = (secondlm / secondltm) * 100
         
         
@@ -218,7 +213,14 @@ def seprates():
                 f"\n{name} as {tlns} Overall"
                 )
         f.close()
-
+    if __name__ == '__main__':
+    	while True:
+    	    notification.notify(
+                title="**Please Drink Water Now!!",
+                message="The National Academies of Sciences, Engineering, and Medicine determined that an adequate daily fluid intake is: About 15.5 cups (3.7 liters) of fluids for men. About 11.5 cups (2.7 liters) of fluids a day for women.",
+                # app_icon="path to your .ico file",
+            )
+    	    
 
 def nseprate():
 
@@ -232,17 +234,15 @@ def nseprate():
         rollno = int(input("Enter the Roll Number of the Student:"))
 
         #Inputs of Science
-        scim = float(input(f"\nEnter the  Marks Scored by {name} in Science"))
+        scim = float(input(f"\nEnter the  Marks Scored by {name} in Science:"))
         if (ams == "N"):
-            scitm = int(
-                input("Enter the Total Marks Science Exam was Conducted for:"))
+            scitm = int(input("Enter the Total Marks Science Exam was Conducted for:"))
             scip = (scim/scitm)*100
 
         # Input in Mathematics
-        mathm = float(input("\nEnter the Marks Scored by Student in Mathematics:"))
+        mathm = float(input(f"\nEnter the Marks Scored by {name} in Mathematics:"))
         if (ams == "N"):
-            mathtm = float(
-                input("Enter the Total Marks which was there in the Mathematics Exam:"))
+            mathtm = float(input("Enter the Total Marks which was there in the Mathematics Exam:"))
             mathp = (mathm / mathtm) * 100
 
         # Inputs in Social Science
@@ -251,20 +251,16 @@ def nseprate():
             sstm = float(input("Enter the Total Marks  Second Language Exam was Conducted for:"))
             ssp = (ssm / sstm) * 100
 
-        # Outputs in First Language
-        firstlm = float(
-            input("\nEnter the Marks Scored by Student in First Language:"))
+        # Inputs in First Language
+        firstlm = float(input(f"\nEnter the Marks Scored by {name} in First Language:"))
         if (ams == "N"):
-            firstltm = float(
-                input("Enter the Total Marks which was there in the First Language Exam:"))
+            firstltm = float(input("Enter the Total Marks which was there in the First Language Exam:"))
             firstlp = (firstlm / firstltm) * 100
 
-        # Outputs in Secod Language
-        secondlm = float(
-            input("\nEnter the Marks Scored by Student in Second Language:"))
+        # Inputs in Secod Language
+        secondlm = float(input(f"\nEnter the Marks Scored by {name} in Second Language:"))
         if (ams == "N"):
-            secondltm = float(
-                input("Enter the Total Marks which was there in the Second Language Exam:\n"))
+            secondltm = float(input("Enter the Total Marks which was there in the Second Language Exam:\n"))
             secondlp = (secondlm / secondltm) * 100
 
         if (ams == "Y"):
@@ -384,10 +380,8 @@ def nseprate():
         f.close()
 
 
-ass = input(
-    '''Is Science Divided into Physics Chemistry Biology if 'Yes' enter 'Y' else enter 'N'  ''')
-ams = input(
-    "Is the Total Marks Same for all Subject if 'Yes' Enter 'Y' else Enter 'N' ")
+ass = input('''Is Science Divided into Physics Chemistry Biology if 'Yes' enter 'Y' else enter 'N'  ''')
+ams = input("Is the Total Marks Same for all Subject if 'Yes' Enter 'Y' else Enter 'N' ")
 
 if (ass == "Y"):
     seprates()
