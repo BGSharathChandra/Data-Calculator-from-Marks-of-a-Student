@@ -1,4 +1,4 @@
-																Versions and their Details
+								Versions and their Details
 
 Version 3-Major Update
 
