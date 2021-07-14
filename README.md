@@ -1,4 +1,4 @@
-						    Versions and their Details																					
+						    Versions and their Details																
 Version 3-Major Update
 
 Version 3 is a Major Update where the Size of the Code is Reduced by 8kb by Compressing the Function 'separate’ and ‘nseprate’ to Single Function called ‘main’ so the Repeated Code in in ‘nseprate’ have been Removed and new ones have Been added. Totally 196 lines of code have been removed which you can see when Compare Version 3 with the Previous Versions.
