@@ -21,3 +21,7 @@ Version 1-Minor Updates
 Version 1 is a Minor Update because only one Feature which is asking whether the Failing Percentage is same for all the Students or not and implementing it to Calculate whether the Student has Failed or Passed as been added and there also some Grammar Correction and reducing the Size of the Code by Removing Extra lines.
 
 To Download the Version-1 (which is not recomended as there are bugs which are solved in Version-2 so you can download it) Code Click on this link  (https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v1.1/main.py) or Manually go to the Releases Section and Download
+
+
+
+To See all My Releases and download them go to https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases
