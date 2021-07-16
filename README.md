@@ -1,4 +1,14 @@
 						    Versions and their Details	
+Version 4-Major Update
+
+Version 4 is a major Update as the Total marks for the all Subjects and Each Subjects as been made same so that the User Does not have to Enter the Total Marks for all Subject or Each Subject Every Time so if you want to Calculate for 100 People than Simply Enter the Total Marks for all Subject or Each Subject once and Calculate. There also been a Major Update in the txt file Created which are
+1.Replacing the Word "Output" with "Marks and Percentage" so it looks Good when Read.
+2.Replcing the word "Student" with the Name of the Student.
+
+To Download the Version-4(Recomended as the Code Size as more Features Code Click on this link https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v4.0/main.py or Manually go to the Releases Section and Download
+
+
+
 Version 3-Major Updates
 
 Version 3 is a Major Update where the Size of the Code is Reduced by 8kb by Compressing the Function 'separate’ and ‘nseprate’ to Single Function called ‘main’ so the Repeated Code in in ‘nseprate’ have been Removed and new ones have Been added. Totally 196 lines of code have been removed which you can see when Compare Version 3 with the Previous Versions.
