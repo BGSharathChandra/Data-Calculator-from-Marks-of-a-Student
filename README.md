@@ -19,7 +19,7 @@ To Download the Version-3(Recomended as the Code Size is smaller than the others
 
 Version 2-Major Updates
 
-Version 2 is a Major Update where your Social Science has been Divided into History , Geography and Civics just like Science but a new Function is not Created and the User can Choose whether Social is Divided into History , Geography and Civics or not. So a new Feature has Been added and there also some Minor Bug Fixes but the Major one is Fixing the Bug because of  which the Student Total Outcome-Whether he has Failed or not was Wrongly displayed in the txt file Created.
+Version 2 is a Major Update where your Social Science has been Divided into History , Geography and Civics just like Science but a new Function is not Created and the User can Choose whether Social is Divided into History , Geography and Civics or not. So a new Feature has Been added and there also some Minor Bug Fixes but the Major one is Fixing the Bug because of  which the Student Total Outcome-Whether he has Failed or not was Wrongly displayed in the txt file Created as the variable name was samr for many Subjects.
 
 To Download the Version-2 Code Click on this link  https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v2.0/main.py or Manually go to the Releases Section and Download
 
