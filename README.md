@@ -5,7 +5,9 @@ Version 4 is a major Update as the Total marks for the all Subjects and Each Sub
 1.Replacing the Word "Output" with "Marks and Percentage" so it looks Good when Read.
 2.Replcing the word "Student" with the Name of the Student.
 
-To Download the Version-4(Recomended as the Code as more Features) Click on this link https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v4.0/main.py or Manually go to the Releases Section and Download
+To Download the Code of  Version-4(Recomended as the Code as more Features) Click on this link https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v4.0/Version4.py
+To Doxload the Exe File Click on this link  https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases/download/v4.0/Version4.exe
+or Manually go to the Releases Section and Download
 
 
 
