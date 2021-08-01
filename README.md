@@ -47,4 +47,4 @@ TO Download the Exe file of Version1 Click ont this link https://github.com/BGSh
 To See all My Releases and download them go to https://github.com/BGSharathChandra/Percentage-Calculator-from-Marks-of-a-Student/releases
 
 
-<b>If you want to Use the Code to Calculate Data then Download the exe file of the Version else iof you want the Code then Download the File with Extension.py</b>
+<b>If you want to Use the Code to Calculate Data then Download the exe file of the Version else if you want the Code then Download the File with Extension.py</b>
