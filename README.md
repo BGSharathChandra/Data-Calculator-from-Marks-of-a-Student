@@ -1,4 +1,6 @@
 				      Versions and their Details and Decription about the Project
+				      
+<h1>Versions and therir Details</h1>				
 <h2>Version 5-Major Update</h2>
 Coming Soon
 <hr>
@@ -53,4 +55,4 @@ To See all My Releases and download them go to https://github.com/BGSharathChand
 <b>If you want to Use the Code to Calculate Data then Download the exe file of the Version else if you want the Code then Download the File with Extension.py</b>
 <hr>
 
-<h2>Decription about the Project</h2>
+<h1>Decription about the Project</h1>
