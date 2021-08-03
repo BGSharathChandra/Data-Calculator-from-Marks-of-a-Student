@@ -1,6 +1,6 @@
 				      Versions and their Details and Decription about the Project
 				      
-<h1>Versions and therir Details</h1>				
+<h1>Versions and their Details</h1>				
 <h2>Version 5-Major Update</h2>
 Coming Soon
 <hr>
