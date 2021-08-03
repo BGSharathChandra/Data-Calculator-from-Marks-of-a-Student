@@ -56,3 +56,7 @@ To See all My Releases and download them go to https://github.com/BGSharathChand
 <hr>
 
 <h1>Decription about the Project</h1>
+
+This is a Code in Python that takes the Input of Marks of a Student and Some other Data and Calculatea Data-Percentage,Whether the Student as Failed or Passes in the Exam and Puts them in a txt File.
+This Code makes it Easier to Calculate Data of the Student.
+More Features Like Calculating the Avearage Marks will be Added soon as Version 5 is Being Made which Includes Converting the Code to GUi using Tkinter.
