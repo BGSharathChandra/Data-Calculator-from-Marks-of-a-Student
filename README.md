@@ -61,6 +61,11 @@ To See all My Releases and download them go to https://github.com/BGSharathChand
 <b>If you want to Use the Code to Calculate Data then Download the exe file of the Version else if you want the Code then Download the File with Extension.py</b>
 <hr>
 
+<h1>Difference Between v1 and v2 Version Tags </h1>
+
+
+<hr>
+
 <h1>Decription about the Project</h1>
 
 This is a Code in Python that takes the Input of Marks of a Student and Some other Data and Calculatea Data-Percentage,Whether the Student as Failed or Passes in the Exam and Puts them in a txt File.
