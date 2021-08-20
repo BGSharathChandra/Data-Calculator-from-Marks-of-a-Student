@@ -6,7 +6,7 @@ This Release Includes Converting the Code to a GUI Using Tkinter. Somefeatures l
 
 To Download the Code of  Version-4(Recomended as the Code as more Features) Click on this link https://github.com/BGSharathChandra/Data-Calculator-from-Marks-of-a-Student/releases/download/v2.1/Version-5.py
 
-To Dowload the Exe File Click on this link  https://github.com/BGSharathChandra/Data-Calculator-from-Marks-of-a-Student/releases/download/v2.1/Version-5.exe
+To Dowload the Exe File Click on this link https://github.com/BGSharathChandra/Data-Calculator-from-Marks-of-a-Student/releases/download/v2.1/v2.1.exe
 or Manually go to the Releases Section and Download
 
 <hr>
