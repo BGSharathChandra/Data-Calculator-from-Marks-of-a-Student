@@ -39,7 +39,7 @@ v1.2 is a Major Update where your Social Science has been Divided into History ,
 <hr>
 
 
-<h2>v1.q-Minor Updates</h2>
+<h2>v1.1-Minor Updates</h2>
 
 v1.1 is a Minor Update because only one Feature which is asking whether the Failing Percentage is same for all the Students or not and implementing it to Calculate whether the Student has Failed or Passed as been added and there also some Grammar Correction and reducing the Size of the Code by Removing Extra lines.
 
