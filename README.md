@@ -12,13 +12,13 @@ This Code makes it Easier to Calculate Data of the Student.
 
 <h1>Versions and their Details</h1>	
 
-<h2>Version 5-Major Update</h2>
+<h2>v2.1-Major Update</h2>
 This Release Includes Converting the Code to a GUI Using Tkinter. Somefeatures like Adding the Total Marks before is Absent which will be Added Soon.
 
 <hr>
-<h2>Version 4-Major Update</h2>
+<h2>v1.4-Major Update</h2>
 
-Version 4 is a major Update as the Total marks for the all Subjects and Each Subjects as been made same so that the User Does not have to Enter the Total Marks for all Subject or Each Subject Every Time so if you want to Calculate for 100 People than Simply Enter the Total Marks for all Subject or Each Subject once and Calculate.<br><br>
+v1.4 is a major Update as the Total marks for the all Subjects and Each Subjects as been made same so that the User Does not have to Enter the Total Marks for all Subject or Each Subject Every Time so if you want to Calculate for 100 People than Simply Enter the Total Marks for all Subject or Each Subject once and Calculate.<br><br>
 There also been a Major Update in the txt file Created which are
 1.Replacing the Word "Output" with "Marks and Percentage" so it looks Good when Read.
 2.Replcing the word "Student" with the Name of the Student.
@@ -26,22 +26,22 @@ There also been a Major Update in the txt file Created which are
 
 <hr>
 
-<h2>Version 3-Major Updates</h2>
+<h2>v1.3-Major Updates</h2>
 
-Version 3 is a Major Update where the Size of the Code is Reduced by 8kb by Compressing the Function 'separate’ and ‘nseprate’ to Single Function called ‘main’ so the Repeated Code in in ‘nseprate’ have been Removed and new ones have Been added. Totally 196 lines of code have been removed which you can see when Compare Version 3 with the Previous Versions.
-
-<hr>
-
-<h2>Version 2-Major Updates</h2>
-
-Version 2 is a Major Update where your Social Science has been Divided into History , Geography and Civics just like Science but a new Function is not Created and the User can Choose whether Social is Divided into History , Geography and Civics or not. So a new Feature has Been added and there also some Minor Bug Fixes but the Major one is Fixing the Bug because of  which the Student Total Outcome-Whether he has Failed or not was Wrongly displayed in the txt file Created as the variable name was samr for many Subjects.
+v1.3 is a Major Update where the Size of the Code is Reduced by 8kb by Compressing the Function 'separate’ and ‘nseprate’ to Single Function called ‘main’ so the Repeated Code in in ‘nseprate’ have been Removed and new ones have Been added. Totally 196 lines of code have been removed which you can see when Compare Version 3 with the Previous Versions.
 
 <hr>
 
+<h2>v1.2-Major Updates</h2>
 
-<h2>Version 1-Minor Updates</h2>
+v1.2 is a Major Update where your Social Science has been Divided into History , Geography and Civics just like Science but a new Function is not Created and the User can Choose whether Social is Divided into History , Geography and Civics or not. So a new Feature has Been added and there also some Minor Bug Fixes but the Major one is Fixing the Bug because of  which the Student Total Outcome-Whether he has Failed or not was Wrongly displayed in the txt file Created as the variable name was samr for many Subjects.
 
-Version 1 is a Minor Update because only one Feature which is asking whether the Failing Percentage is same for all the Students or not and implementing it to Calculate whether the Student has Failed or Passed as been added and there also some Grammar Correction and reducing the Size of the Code by Removing Extra lines.
+<hr>
+
+
+<h2>v1.q-Minor Updates</h2>
+
+v1.1 is a Minor Update because only one Feature which is asking whether the Failing Percentage is same for all the Students or not and implementing it to Calculate whether the Student has Failed or Passed as been added and there also some Grammar Correction and reducing the Size of the Code by Removing Extra lines.
 
 <hr>
 
