@@ -56,7 +56,7 @@ To See all My Releases and download them go to https://github.com/BGSharathChand
 <h1> Download Links for all Version</h1>
 
 <table>
-<caption align="centre">Version Download <caption>
+<caption>Version Download <caption>
 <thead>
 <tr>
 <th>Version</th>
